@@ -193,12 +193,21 @@ span a{
 }
 
 #lacks-height{
-    height: 700px;
+    height: 701px;
+}
+#flex-around .small-container:first-child{
+background-image: url(engine.jpg);
+}
+    
+#flex-around .small-container{
+    text-align: center;
 }
 
-iframe{
-    display: inline-flex;
-    overflow: hidden;
-    height: 360px;
-    width: 640px;
+#flex-around .small-container p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+    font-size: 1rem;
+    align-self: flex-end;
+    padding: 5px !important;
+    margin: 0 !important;
 }
