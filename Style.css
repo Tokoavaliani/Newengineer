@@ -211,3 +211,12 @@ background-image: url(engine.jpg);
     padding: 5px !important;
     margin: 0 !important;
 }
+#flex-around .small-container p a{
+    color: white;
+    text-decoration: none;
+    transition: all 0.5s linear 0.1s;
+}
+
+#flex-around .small-container p a:hover{
+    color: rgba(256, 256, 256, 0.5)
+}
