@@ -199,8 +199,16 @@ span a{
 #lacks-height{
     height: 701px;
 }
-#flex-around .small-container:first-child{
-background-image: url(engine.jpg);
+#engine-img{
+    background-image: url(engine.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#bridge-img{
+    background-image: url(Millennium-bridge.jpg);
+    background-position: center bottom;
+    background-size: cover;
 }
     
 #flex-around .small-container{
