@@ -149,6 +149,10 @@ footer ul li{
     letter-spacing: 0.075rem;
 }
 
+.fa{
+    padding-right: 10px;
+}
+
 /* Article CSS */
 main h4{
     font-size: 2rem;
