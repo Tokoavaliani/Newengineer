@@ -210,6 +210,17 @@ span a{
     background-position: center bottom;
     background-size: cover;
 }
+
+#Burj-img{
+    background-image: url(Burj-Khalifa-img.jpg);
+    background-position: center bottom;
+    background-size: cover;
+}
+
+#Burj{
+    max-height: 25rem;
+    max-width:100%;
+}
     
 #flex-around .small-container{
     text-align: center;
