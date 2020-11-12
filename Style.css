@@ -221,6 +221,11 @@ span a{
     max-height: 25rem;
     max-width:100%;
 }
+
+#ship{
+    max-height: 25rem;
+    max-width:100%;
+}
     
 #flex-around .small-container{
     text-align: center;
