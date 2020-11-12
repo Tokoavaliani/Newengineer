@@ -227,7 +227,7 @@ span a{
     max-width:100%;
 }
 
-#ship-img{
+#Ship-img{
     background-image: url(ship.jpg);
     background-position: center bottom;
     background-size: cover;
