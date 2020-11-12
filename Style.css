@@ -226,6 +226,12 @@ span a{
     max-height: 25rem;
     max-width:100%;
 }
+
+#Burj-img{
+    background-image: url(ship.jpg);
+    background-position: center bottom;
+    background-size: cover;
+}
     
 #flex-around .small-container{
     text-align: center;
