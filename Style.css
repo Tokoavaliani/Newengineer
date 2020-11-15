@@ -255,6 +255,7 @@ span a{
     align-self: flex-end;
     padding: 5px !important;
     margin: 0 !important;
+    width: 100%
 }
 #flex-around .small-container p a{
     color: white;
